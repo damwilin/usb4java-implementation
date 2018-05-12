@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.usb4java:usb4java-javax:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.usb4java/usb4java-javax/1.2.0/c862d0f32a08d50afb8fb7c83a30c1deb6e7a444/usb4java-javax-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.usb4java/usb4java-javax/1.2.0/5649a42176194350c3e8f1eae04fc6a3142dc1b6/usb4java-javax-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

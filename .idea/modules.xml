@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/usb4java-implementation.iml" filepath="$PROJECT_DIR$/.idea/modules/usb4java-implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usb4java-implementation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/usb4java-implementation_main.iml" group="usb4java-implementation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usb4java-implementation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/usb4java-implementation_test.iml" group="usb4java-implementation" />
     </modules>
   </component>
 </project>

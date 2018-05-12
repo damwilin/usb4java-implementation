@@ -11,4 +11,5 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.usb4java', name: 'usb4java-javax', version: '1.2.0'
 }
